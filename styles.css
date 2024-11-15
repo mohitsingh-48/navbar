@@ -1,0 +1,75 @@
+*{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+}
+.main{
+    gap: 8px 10px;
+    padding-top: 10px;
+}
+.navbar{
+position: absolute;
+top: 18px;
+left: 0;
+}
+.Home{
+    font-weight:500;
+}
+.search{
+    position: absolute;
+    border-color: white;
+    gap: 0px 8px;
+    right: 0;
+}
+ .si{
+    height: 45px;
+}
+.lig{
+    height: 45px;
+}
+.lig button{
+background-color: white;
+border-style: solid;
+text-align: center;
+border-color: rgb(3, 195, 3);
+cursor: pointer;
+color:white
+border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+}
+.lig button:hover{
+    color: green;
+}
+.si input{
+   border-style:solid;
+   border-color: rgb(167, 163, 163);
+   border-width: thin;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+}
+.Link a{ 
+    text-decoration: none;
+    line-height: 5px;
+    color: rgb(94, 91, 91);
+}
+#cars{
+    color: rgb(94, 91, 91);
+    border: none;
+
+}
+.drop{
+    position: relative;
+    top: -6px;
+    
+}
+.disabled{
+    color:  rgb(94, 91, 91);
+}
+
+
