@@ -20,6 +20,13 @@
 .about h4{
     margin-right: 90px;
     line-height: 20px;
+    margin-bottom: 10px;
+}
+.Site h4{
+    margin-bottom: 10px;
+}
+.our h4{
+    margin-bottom: 10px;
 }
 .Site{
     position: absolute;
@@ -37,3 +44,129 @@
     margin-top: -160px;
     line-height: 24px;
 }
+.main{
+    gap: 8px 10px;
+    padding-top: 10px;
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+}
+.navbar{
+    padding: 8px;
+    margin: 0;
+    margin-top: -30px;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    position: absolute;
+    top: 18px;
+    left: 0;
+}
+.Home{
+    font-weight:500;
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+}
+.search{
+    padding: 8px;
+    margin: 0;
+    margin-top: -58px;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    position: absolute;
+    border-color: white;
+    gap: 0px 8px;
+    right: 0;
+}
+ .si{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    height: 45px;
+}
+.lig{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    height: 45px;
+}
+.lig button{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+background-color: white;
+border-style: solid;
+text-align: center;
+border-color: rgb(3, 195, 3);
+cursor: pointer;
+color:white
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+.lig button:hover{
+    color: green;
+}
+.si input{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+   border-style:solid;
+   border-color: rgb(167, 163, 163);
+   border-width: thin;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+}
+.Link a{ 
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    text-decoration: none;
+    line-height: 5px;
+    color: rgb(94, 91, 91);
+}
+#cars{
+    color: rgb(94, 91, 91);
+    border: none;
+
+}
+.drop{
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    position: relative;
+    top: -6px;
+    
+}
+.disabled{
+    padding: 8px;
+    margin: 0;
+    margin-top: -7px;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    color:  rgb(94, 91, 91);
+}
+
+
