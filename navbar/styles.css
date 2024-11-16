@@ -37,9 +37,9 @@ border-color: rgb(3, 195, 3);
 cursor: pointer;
 color:white
 border-top-left-radius: 5px;
-   border-top-right-radius: 5px;
-   border-bottom-right-radius: 5px;
-   border-bottom-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
 }
 .lig button:hover{
     color: green;

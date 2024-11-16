@@ -1,0 +1,39 @@
+.fotter{
+    position:absolute;
+    background-color: rgb(52, 50, 50);
+    box-sizing: border-box;
+    width: 1220px;
+    height: 200px;
+    bottom: 0;s
+    padding-left: 90px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    margin-left: 7px;
+}
+.about{
+    position: relative;
+    margin-left: 10px;
+    justify-items: center;
+    margin-right: 600px;
+    margin-top: 30px;
+}
+.about h4{
+    margin-right: 90px;
+    line-height: 20px;
+}
+.Site{
+    position: absolute;
+    margin-top: -152px;
+    margin-left: 600px;
+    line-height: 24px;
+}
+.Site .hi{
+    line-height: 25px;
+}
+.our{
+    position: absolute;
+    margin-top: -152px;
+    margin-left: 950px;
+    margin-top: -160px;
+    line-height: 24px;
+}
